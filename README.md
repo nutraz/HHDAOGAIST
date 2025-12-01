@@ -1,17 +1,15 @@
-# **HeliosHash DAO (HHDAO)** 🌞⚡
+HeliosHash DAO (HHDAO) 🌞⚡
+<div align="center"> <img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="120" style="margin-bottom: 20px;" />
+Bridging Real-World Infrastructure with On-Chain Governance
+A OneWorldProject Initiative — India
 
-<div align="center">
+https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml/badge.svg
+https://img.shields.io/badge/license-Apache%25202.0-blue.svg
+https://img.shields.io/badge/blockchain-Internet_Computer-orange.svg
+https://img.shields.io/badge/focus-Real_World_Assets-green.svg
 
-**Bridging Real-World Infrastructure with On-Chain Governance**  
-*A OneWorldProject Initiative — India*
-
-[![CI Status](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml/badge.svg)](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Internet Computer](https://img.shields.io/badge/blockchain-Internet_Computer-orange.svg)](https://internetcomputer.org/)
-[![RWA Focus](https://img.shields.io/badge/focus-Real_World_Assets-green.svg)](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)
-
-**Live Platform:** [https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
-**RWA NFT Collection:** [https://opensea.io/item/polygon/0xdaa7a0700607dc5130a54a8534dee0be2af61e30/6](https://opensea.io/collection/helioshash-rwa)
+Live Platform: https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity
+RWA NFT Collection: https://opensea.io/item/polygon/0xdaa7a0700607dc5130a54a8534dee0be2af61e30/6
 
 </div>
 
