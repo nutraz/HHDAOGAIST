@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 **Live Platform:** [https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
-**RWA NFT Collection:** [https://opensea.io/item/polygon/0xdaa7a0700607dc5130a54a8534dee0be2af61e30/6](https://opensea.io/collection/helioshash-rwa)
+**RWA NFT Collection:**([https://opensea.io/collection/helioshash-rwa](https://opensea.io/item/polygon/0xdaa7a0700607dc5130a54a8534dee0be2af61e30/6)
 
 </div>
 
