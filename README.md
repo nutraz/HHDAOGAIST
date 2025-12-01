@@ -1,6 +1,6 @@
 <div align="center">
 HeliosHash DAO
-<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="80">
+<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="1000">
 A OneWorldProject Initiative — India
 
 Live Platform: HeliosHash DAO Dashboard
