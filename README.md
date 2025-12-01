@@ -1,14 +1,14 @@
-<div align="center">
 HeliosHash DAO
-<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="300">
-<A OneWorldProject Initiative — India>
+
+<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="200">
+A OneWorldProject Initiative — India
+
 
 Live Platform: HeliosHash DAO Dashboard
 RWA NFT Collection: OpenSea - HeliosHash RWA
 Repository: GitHub - HHDAOGAIST
 
 </div>
----
 
 ## 🌞 Vision & Purpose
 
