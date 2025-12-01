@@ -1,15 +1,20 @@
- # **HeliosHash DAO**
+<div align="center">
 
-![HeliosHash DAO](https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg)
+# **HeliosHash DAO**
+
+![HeliosHash DAO Logo](https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg)
 
 **A OneWorldProject Initiative — India**
 
 **Live Platform:** [HeliosHash DAO Dashboard](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
 **RWA NFT Collection:** [OpenSea - HeliosHash RWA](https://opensea.io/collection/helioshash-rwa)  
 **Repository:** [GitHub - HHDAOGAIST](https://github.com/nutraz/HHDAOGAIST)
+
+</div>
+
 ---
 
-## Vision & Purpose
+## 🌞 Vision & Purpose
 
 HeliosHash DAO transforms sunlight into digital sovereignty — bridging solar microgrids, modular data centers, and Bitcoin mining into transparent, community-governed assets. We create verifiable digital twins of real-world infrastructure through our Multi-Layer Identity System.
 
@@ -17,13 +22,13 @@ Our mission aligns with the growing movement toward sustainable Bitcoin mining. 
 
 ---
 
-## 🌞 The Solar → Sovereignty Pipeline
+### **The Solar → Sovereignty Pipeline**
 
 ```
 Sunlight → Solar Panels → Clean Energy → Compute/Mining → On-Chain Value → Community Governance
 ```
 
-### Why Solar-Powered Mining?
+#### **Why Solar-Powered Mining?**
 
 - **Cost Efficiency:** Solar installations provide nearly free electricity after a 18-20 month breakeven period
 - **Environmental Impact:** Eliminate carbon emissions from mining operations
@@ -54,7 +59,7 @@ This tri-layer system ensures:
 
 ## 🏗️ Technical Architecture
 
-### **Blockchain Layer** (Internet Computer Protocol)
+### **Blockchain Layer (Internet Computer Protocol)**
 
 The Internet Computer enables full-stack decentralization, allowing apps to run entirely on-chain with unprecedented security and resilience. Our implementation includes:
 
@@ -73,7 +78,7 @@ The Internet Computer enables full-stack decentralization, allowing apps to run 
 - Full-stack hosting capability (frontend + backend + storage)
 - Decentralized governance through Network Nervous System (NNS)
 
-### **Frontend Layer** (Next.js 14)
+### **Frontend Layer (Next.js 14)**
 
 - **Framework:** Next.js App Router with TypeScript
 - **UI Library:** TailwindCSS + shadcn/ui components
@@ -84,7 +89,7 @@ The Internet Computer enables full-stack decentralization, allowing apps to run 
   - Web3 wallet integration
   - Live IoT data visualization
 
-### **Mobile Layer** (Flutter)
+### **Mobile Layer (Flutter)**
 
 - **Platforms:** Android, iOS, Linux
 - **Directory:** `/apps/mobile/`
@@ -94,7 +99,7 @@ The Internet Computer enables full-stack decentralization, allowing apps to run 
   - Push notifications for alerts
   - Biometric authentication
 
-### **Bridge Layer** (Solidity)
+### **Bridge Layer (Solidity)**
 
 - **Purpose:** Cross-chain asset synchronization (Polygon ↔ ICP)
 - **Directory:** `/contracts/`
@@ -108,7 +113,7 @@ The Internet Computer enables full-stack decentralization, allowing apps to run 
 
 ## 🚀 Quick Start
 
-### Automated Setup (Recommended)
+### **Automated Setup (Recommended)**
 
 ```bash
 # Clone repository
@@ -119,7 +124,7 @@ cd HHDAOGAIST
 ./scripts/dev-setup.sh
 ```
 
-### Manual Setup
+### **Manual Setup**
 
 ```bash
 # Install dependencies
@@ -144,21 +149,21 @@ pnpm dev
 
 ## 📊 Core Features
 
-### 1. **Real-World Asset Monitoring**
+### **1. Real-World Asset Monitoring**
 
 - **Solar Generation Tracking:** Live kWh production, efficiency metrics, panel health
 - **Data Center Health:** Temperature, humidity, uptime, hardware status
 - **Mining Performance:** Hashrate, block rewards, energy consumption
 - **Yield Dashboards:** ROI calculations, dividend distributions, treasury analytics
 
-### 2. **DAO Governance**
+### **2. DAO Governance**
 
 - **Proposal System:** Create and vote on infrastructure upgrades, treasury allocations
 - **NFT-Tiered Voting:** Voting power weighted by RWA-NFT holdings
 - **Treasury Transparency:** Real-time view of all funds and transactions
 - **Impact Funding:** Community-directed grants for sustainable initiatives
 
-### 3. **Tokenization Engine**
+### **3. Tokenization Engine**
 
 - **RWA-Backed NFTs:** Each NFT represents fractional ownership in physical infrastructure
 - **Dynamic Metadata:** Real-time updates reflecting asset performance and value
@@ -170,7 +175,7 @@ pnpm dev
 
 ## 🌍 Deployment Phases
 
-### **Phase 1: Baghpat Pilot** ✅ *ACTIVE*
+### **Phase 1: Baghpat Pilot ✅ ACTIVE**
 
 - **Capacity:** 50kW solar + 20 ASIC mining cluster
 - **Status:** Operational with real-time monitoring
@@ -180,7 +185,7 @@ pnpm dev
   - NFTs minted: 20 (one per mining rig)
 - **Achievements:** Proven technical model, community governance activated
 
-### **Phase 2: Urgam Valley Smart Region** 🚧 *IN PROGRESS*
+### **Phase 2: Urgam Valley Smart Region 🚧 IN PROGRESS**
 
 - **Capacity:** 2MW solar park + modular data center
 - **Vision:** DAO-governed civic infrastructure (street lighting, water pumps, community centers)
@@ -191,7 +196,7 @@ pnpm dev
   - Generate 8,000 kWh daily
   - Create 50+ local jobs
 
-### **Phase 3: Mumbai HPC Hub** 📅 *PLANNED*
+### **Phase 3: Mumbai HPC Hub 📅 PLANNED**
 
 - **Capacity:** Tier 3 data center + 500kW solar
 - **Focus:** AI/ML compute infrastructure for Web3 applications
@@ -203,7 +208,7 @@ pnpm dev
 
 ## 🛠️ Development Guide
 
-### Web Frontend Development
+### **Web Frontend Development**
 
 ```bash
 cd apps/web
@@ -217,7 +222,7 @@ pnpm build
 pnpm test
 ```
 
-### Mobile App Development
+### **Mobile App Development**
 
 ```bash
 cd apps/mobile
@@ -230,7 +235,7 @@ flutter build ios      # iOS
 flutter build linux    # Linux Desktop
 ```
 
-### Internet Computer Backend
+### **Internet Computer Backend**
 
 ```bash
 # Start local replica
@@ -249,7 +254,7 @@ dfx canister status dao_governance
 dfx generate
 ```
 
-### Smart Contract Development
+### **Smart Contract Development**
 
 ```bash
 cd contracts
@@ -280,7 +285,7 @@ npx hardhat run scripts/deploy.ts --network mumbai
 
 ## 📈 Token Economics
 
-### RWA-NFT Structure
+### **RWA-NFT Structure**
 
 Each NFT represents:
 - **Physical Asset:** Fractional ownership in solar panel arrays or mining hardware
@@ -288,7 +293,7 @@ Each NFT represents:
 - **Governance Power:** Voting weight in DAO decisions
 - **Metadata:** Dynamic updates reflecting asset performance
 
-### Revenue Distribution
+### **Revenue Distribution**
 
 1. **70%** - NFT holders (proportional to holdings)
 2. **20%** - Operational maintenance and expansion fund
@@ -314,7 +319,7 @@ Each NFT represents:
 
 We welcome contributions from developers, designers, and sustainability advocates! Please review our [Contributing Guidelines](docs/CONTRIBUTING.md) before submitting pull requests.
 
-### Ways to Contribute
+### **Ways to Contribute**
 
 - 🐛 Report bugs and suggest features
 - 💻 Submit code improvements
@@ -332,8 +337,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 🌟 Community & Support
 
-- **Twitter:** [@HeliosHash DAO]([https://twitter.com/OneWorldProject](https://x.com/1Wpindia))
-- **Discord:** [Join our community]([https://discord.gg/oneworldproject](https://discord.gg/bH9bVYZ)
+- **Twitter:** [@1Wpindia](https://x.com/1Wpindia)
+- **Discord:** [Join our community](https://discord.gg/bH9bVYZ)
 - **Telegram:** [HeliosHash DAO Group](https://t.me/nutraazzz)
 - **Email:** hello@oneworldproject.io
 
@@ -366,9 +371,15 @@ MIT License - see [LICENSE](LICENSE) file for details
 - Integration with national renewable energy grids
 - Enterprise blockchain-as-a-service offering
 
+---
+
+<div align="center">
+
 **From Sunlight to Sovereignty. One Block at a Time.**
 
 *Made with ☀️ by the OneWorldProject Community*
+
+</div>
 
 ---
 
