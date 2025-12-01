@@ -1,5 +1,6 @@
 <div align="center">
-HeliosHash DAO
+  
+**HeliosHash DAO**
 <img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="200">
 A OneWorldProject Initiative — India
 
