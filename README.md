@@ -2,7 +2,8 @@
 HeliosHash DAO
 
 <img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="200">
-A OneWorldProject Initiative — India
+
+<A OneWorldProject Initiative — India>
 
 
 Live Platform: HeliosHash DAO Dashboard
