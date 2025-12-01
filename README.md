@@ -1,13 +1,22 @@
 <div align="center">
-  
-<**HeliosHash DAO**>
-<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="200">
-<A OneWorldProject Initiative — India>
 
-Live Platform: HeliosHash DAO Dashboard
-RWA NFT Collection: OpenSea - HeliosHash RWA
-Repository: GitHub - HHDAOGAIST
+# **HeliosHash DAO**
+
+<br>
+<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="120">
+<br>
+
+**A OneWorldProject Initiative — India**
+
+<br>
+
+**Live Platform:** [HeliosHash DAO Dashboard](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
+**RWA NFT Collection:** [OpenSea - HeliosHash RWA](https://opensea.io/collection/helioshash-rwa)  
+**Repository:** [GitHub - HHDAOGAIST](https://github.com/nutraz/HHDAOGAIST)
+
 </div>
+
+---
 
 ## 🌞 Vision & Purpose
 
