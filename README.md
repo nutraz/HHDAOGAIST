@@ -334,10 +334,10 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 🌟 Community & Support
 
-- **Twitter:** [@OneWorldProject](https://twitter.com/OneWorldProject)
-- **Discord:** [Join our community](https://discord.gg/oneworldproject)
-- **Telegram:** [HeliosHash DAO Group](https://t.me/helioshash)
-- **Email:** contact@oneworldproject.io
+- **Twitter:** [@HeliosHash DAO]([https://twitter.com/OneWorldProject](https://x.com/1Wpindia))
+- **Discord:** [Join our community]([https://discord.gg/oneworldproject](https://discord.gg/bH9bVYZ)
+- **Telegram:** [HeliosHash DAO Group](https://t.me/nutraazzz)
+- **Email:** hello@oneworldproject.io
 
 ---
 
@@ -367,16 +367,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 - Multi-state presence across India
 - Integration with national renewable energy grids
 - Enterprise blockchain-as-a-service offering
-
----
-
-## 🏆 Recognition
-
-- Featured in **Internet Computer Ecosystem Showcase** (2024)
-- **Best Sustainable DePIN Project** - India Web3 Summit (2024)
-- Member of **Renewable Energy DAO Coalition**
-
----
 
 **From Sunlight to Sovereignty. One Block at a Time.**
 
