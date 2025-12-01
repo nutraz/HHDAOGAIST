@@ -1,3 +1,4 @@
+<div align="center">
 HeliosHash DAO
 
 <img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="200">
@@ -9,7 +10,6 @@ RWA NFT Collection: OpenSea - HeliosHash RWA
 Repository: GitHub - HHDAOGAIST
 
 </div>
-
 ## 🌞 Vision & Purpose
 
 HeliosHash DAO transforms sunlight into digital sovereignty — bridging solar microgrids, modular data centers, and Bitcoin mining into transparent, community-governed assets. We create verifiable digital twins of real-world infrastructure through our Multi-Layer Identity System.
