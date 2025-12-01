@@ -1,21 +1,14 @@
-# **HeliosHash DAO** ⚡
+# **HeliosHash DAO**
 
-<div align="center">
+![HeliosHash DAO](https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg)
 
-<img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="120" style="margin-bottom: 10px;" />
+**A OneWorldProject Initiative — India**
 
-**From Sunlight to Sovereignty. One Block at a Time.**  
-*A OneWorldProject Initiative — India*
+**Live Platform:** [HeliosHash DAO Dashboard](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
+**RWA NFT Collection:** [OpenSea - HeliosHash RWA](https://opensea.io/collection/helioshash-rwa)  
+**Repository:** [GitHub - HHDAOGAIST](https://github.com/nutraz/HHDAOGAIST)
 
-[![CI Status](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml/badge.svg)](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml)
-[![Security Audit](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/security.yml/badge.svg)](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/security.yml)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-
-**Live Platform:** [https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
-**RWA NFT Collection:**([https://opensea.io/collection/helioshash-rwa](https://opensea.io/item/polygon/0xdaa7a0700607dc5130a54a8534dee0be2af61e30/6)
-
-</div>
-
+---
 
 ## Vision & Purpose
 
@@ -391,7 +384,3 @@ MIT License - see [LICENSE](LICENSE) file for details
 ---
 
 **Disclaimer:** Cryptocurrency mining and NFT investments carry risk. Past performance does not guarantee future results. Please conduct thorough research before participating.
-
-[Website](https://oneworldproject.io) | [Twitter](https://twitter.com/OneWorldPrj) | [Discord](https://discord.gg/oneworldproject)
-
-</div>ss
