@@ -1,320 +1,309 @@
-# **HeliosHash DAO**
+# **HeliosHash DAO (HHDAO)** 🌞⚡
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg" alt="HeliosHash DAO Logo" width="120" style="margin-bottom: 20px;" />
 
-**A OneWorldProject Initiative — India**  
-**[https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)**  
-**Fintech RWA Monitoring & Management Platform for Solar, Compute & Mining Infrastructure**
+**Bridging Real-World Infrastructure with On-Chain Governance**  
+*A OneWorldProject Initiative — India*
 
-[![CI Status](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml/badge.svg)](https://github.com/nutraz/HeliosHash-DAO/actions)
-[![Security Audit](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/security.yml/badge.svg)](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/security.yml)
+[![CI Status](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml/badge.svg)](https://github.com/nutraz/HeliosHash-DAO/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Internet Computer](https://img.shields.io/badge/blockchain-Internet_Computer-orange.svg)](https://internetcomputer.org/)
+[![RWA Focus](https://img.shields.io/badge/focus-Real_World_Assets-green.svg)](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)
+
+**Live Platform:** [https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity)  
+**RWA NFT Collection:** [https://opensea.io/item/polygon/0xdaa7a0700607dc5130a54a8534dee0be2af61e30/6](https://opensea.io/collection/helioshash-rwa)
 
 </div>
 
 ---
 
-## 🌍 **HeliosHash DAO (HHDAO)** is a **fintech RWA (Real-World Asset) monitoring & management platform**, enabling community-driven investment, oversight, and governance of **solar microgrids, modular data centers, and Bitcoin mining infrastructure**.
+## 🎯 **Vision & Purpose**
 
-Built on the **Internet Computer Protocol (ICP)** and deployed with **Next.js + Flutter**, HHDAO provides:
+**HeliosHash DAO is a fintech platform that tokenizes real-world infrastructure** — solar microgrids, modular data centers, and Bitcoin mining operations — enabling transparent, community-governed ownership and oversight.
 
-* **Real-time monitoring of physical infrastructure**
-* **Tokenized participation in RWA-backed projects**
-* **Transparent yield tracking & dashboards**
-* **DAO-driven governance & treasury oversight**
-* **Community-owned renewable energy impact**
+We transform physical assets into **verifiable, income-generating digital tokens**, creating a seamless bridge between renewable energy infrastructure and decentralized finance through our unique **Multi-Layer Identity System**.
 
-HHDAO is a **real-world infrastructure engine**, not a theoretical DAO.
+### **Core Problem We Solve**
+- **Illiquidity of infrastructure assets** - Converting capex-intensive solar/mining hardware into tradable tokens
+- **Opacity in RWA management** - Providing real-time, on-chain verification of asset performance and revenue
+- **Barriers to impact investing** - Democratizing access to renewable energy projects through fractional ownership
 
-**Real assets → Real-time data → Real revenue → DAO governance.**
-
----
-
-### **1️⃣ Fintech RWA Infrastructure Layer**
-
-A fully integrated monitoring stack for:
-
-* Solar energy generation
-* Data center compute load
-* ASIC/GPU mining performance
-* Temperature, uptime, and operational metrics
-* Yield + revenue per asset cluster
-
-All exposed in **transparent, on-chain dashboards**.
-
-### **2️⃣ Tokenized Participation**
-
-Members participate in:
-
-* DAO proposals
-* Infrastructure-backed rewards
-* On-chain verification of revenue
-* Governance through NFT tiers
-* Cross-chain compatibility via Solidity bridges
-
-### **3️⃣ Real-World Impact (India-first Model)**
-
-HHDAO powers:
-
-* Villages
-* Community buildings
-* Schools
-* Hospitals
-* SEZ Smart Regions (Urgam Valley)
-
-With **free energy** provided under the OneWorldProject charter.
-
-### **4️⃣ Fully Open Source Infrastructure**
-
-You can audit, fork, deploy, or extend the entire stack.
+### **Our Solution**
+- **Real-Time Monitoring** - Live telemetry from physical assets to blockchain
+- **Tokenized Ownership** - NFTs representing verifiable shares in infrastructure
+- **DAO Governance** - Community-driven decision making on asset deployment
+- **Transparent Yield** - On-chain verification of all revenue distribution
 
 ---
 
-## 🏗️ **Architecture**
+## 🔗 **The HHDAO Identity System**
 
-### **Backend — Internet Computer (ICP)**
+Every physical asset in our network is represented through a multi-layered identity framework:
 
-* **Language:** Motoko
-* **Canisters:** DAO logic, treasury, members, proposals
-* **Directory:** `/canisters/`
+| Layer | Identifier Format | Purpose | Example |
+|-------|------------------|---------|---------|
+| **Physical Asset** | Hardware Serial/MAC | Immutable device fingerprint | `INV-SOLAR-7X8B9P` |
+| **Platform ID** | Structured Composite | Human-readable management | `HHDAO-URGAM-DC-001` |
+| **Blockchain Proof** | NFT `tokenId` + Contract | On-chain ownership verification | `Polygon:0xdaa7...1e30/6` |
 
-### **Frontend — Next.js 14 Web App**
-
-* **Framework:** Next.js App Router
-* **Tech:** TypeScript, TailwindCSS, shadcn/ui
-* **Directory:** `/apps/web/`
-
-### **Mobile — Flutter Application**
-
-* **Platforms:** Android, iOS, Linux
-* **Directory:** `/apps/mobile/`
-
-### **Smart Contracts — Solidity**
-
-* **Components:** Bridge contracts, cross-chain verification
-* **Directory:** `/contracts/`
+**This system ensures:** 
+- Every solar panel, mining rig, and data center has a verifiable digital twin
+- Complete audit trail from physical hardware to on-chain token
+- Seamless integration with OpenSea and other NFT marketplaces
 
 ---
 
-## 🚀 **Quick Start**
+## 🏗️ **Technical Architecture**
 
+### **Blockchain Layer (Internet Computer)**
+- **Canisters:** DAO governance, asset registry, treasury management
+- **Language:** Motoko
+- **Key Feature:** Direct on-chain hosting of frontend and APIs
+- **Directory:** `/canisters/`
+
+### **Frontend Layer (Next.js 14)**
+- **Framework:** Next.js App Router with TypeScript
+- **UI:** TailwindCSS + shadcn/ui components
+- **Real-time Data:** WebSocket connections to asset telemetry
+- **Directory:** `/apps/web/`
+
+### **Mobile Layer (Flutter)**
+- **Cross-platform:** Android, iOS, Linux
+- **Features:** Push notifications for asset alerts, mobile governance voting
+- **Directory:** `/apps/mobile/`
+
+### **Bridge Layer (Solidity)**
+- **Cross-chain:** Polygon ↔ ICP asset synchronization
+- **Verification:** Proof generation for RWA authenticity
+- **Directory:** `/contracts/`
+
+### **Data Flow**
+```
+Physical Assets → IoT Sensors → Telemetry API → ICP Canisters → 
+└→ Next.js Dashboard (Real-time Monitoring)
+└→ Flutter Mobile (Notifications & Control)
+└→ Polygon NFTs (Ownership Representation)
+```
+
+---
+
+## 🚀 **Getting Started**
+
+### **Prerequisites**
 ```bash
-# Clone and setup
+# Core dependencies
+Node.js 18+ | DFX 0.21+ | Flutter 3.19+ | pnpm 8+
+
+# Internet Computer setup
+sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
+```
+
+### **Local Development**
+```bash
+# 1. Clone and setup
 git clone https://github.com/nutraz/HeliosHash-DAO.git
 cd HeliosHash-DAO
 
-# Automated developer environment
+# 2. Automated environment setup
 ./scripts/dev-setup.sh
 
-# Manual setup
-pnpm install
+# 3. Start local ICP replica
 dfx start --background --clean
+
+# 4. Deploy canisters
 dfx deploy
-pnpm dev
+
+# 5. Launch development servers
+pnpm dev                   # Next.js frontend (localhost:3002)
+flutter run -d chrome      # Flutter web preview
 ```
 
-Visit: **[http://localhost:3002](http://localhost:3002)**
+### **Production Deployment**
+```bash
+# Vercel Deployment (Frontend)
+cd apps/web
+vercel --prod --env .env.vercel.production
+
+# ICP Mainnet Deployment
+dfx deploy --network ic
+
+# Mobile App Deployment
+flutter build apk --release  # Android
+flutter build ipa --release  # iOS
+```
 
 ---
 
-## 💻 **Development Commands**
+## 📊 **Key Features**
 
-### **Web**
+### **Real-World Asset Monitoring**
+- **Solar Generation Tracking:** Live kW output, efficiency metrics, weather correlation
+- **Data Center Operations:** Uptime, temperature, power usage effectiveness (PUE)
+- **Mining Infrastructure:** Hashrate, hardware health, reward verification
+- **Yield Analytics:** Transparent revenue calculation per asset cluster
 
+### **DAO Governance Framework**
+- **Proposal System:** Fund allocation, asset acquisition, parameter changes
+- **Tiered Voting:** NFT-based voting weights (Genesis, Solar, Compute tiers)
+- **Treasury Management:** Multi-signature controls with transparent ledger
+- **Community Initiatives:** Impact project funding proposals
+
+### **Tokenization Engine**
+- **RWA-Backed NFTs:** Polygon-based tokens with verifiable asset backing
+- **Dynamic Metadata:** Auto-updating NFT traits based on asset performance
+- **Cross-Chain Verification:** ICP-based proofs of physical asset existence
+- **Secondary Markets:** OpenSea integration with verified collection status
+
+### **Identity & Access**
+- **Multi-Modal Login:** Internet Identity, NFID, Ethereum wallets
+- **KYC/AML Options:** Compliance-ready identity verification
+- **Role-Based Access:** Viewer, Member, Operator, Guardian tiers
+- **Audit Trail:** Immutable log of all governance and management actions
+
+---
+
+## 🌍 **Deployment Roadmap**
+
+### **Phase 1: Baghpat Pilot (Active)**
+- **Location:** Baghpat, Uttar Pradesh
+- **Assets:** 50kW solar array + 20 ASIC mining unit cluster
+- **Status:** Fully operational with real-time monitoring
+- **DAO Members:** 127 initial participants
+
+### **Phase 2: Urgam Valley Smart Region (Q3 2024)**
+- **Location:** Urgam Valley Special Economic Zone
+- **Scale:** 2MW solar park + 200-rack modular data center
+- **Innovation:** DAO-governed civic infrastructure
+- **Community Impact:** Free energy for schools, healthcare centers
+
+### **Phase 3: Mumbai HPC Hub (Q1 2025)**
+- **Location:** Mumbai Industrial Corridor
+- **Capacity:** Tier 3 micro data center + 500kW solar park
+- **Focus:** High-performance computing for AI/ML workloads
+- **Expansion:** National replication framework
+
+---
+
+## 🔧 **Module Reference**
+
+| Module | Path | Status | Description |
+|--------|------|--------|-------------|
+| **Core DAO Logic** | `/canisters/dao/` | ✅ Production | Governance, proposals, voting |
+| **Asset Registry** | `/canisters/assets/` | ✅ Production | RWA identity management |
+| **UrgamU Dashboard** | `/apps/web/src/modules/UrgamUDelhi/` | ✅ Production | Smart city monitoring interface |
+| **NFT Management** | `/apps/web/src/components/nft/` | ✅ Stable | Minting, display, metadata |
+| **Telemetry Bridge** | `/canisters/telemetry/` | 🚧 Beta | Physical asset data ingestion |
+| **Mobile Governance** | `/apps/mobile/lib/governance/` | ✅ Stable | On-the-go voting and alerts |
+
+---
+
+## 🎮 **Development Workflow**
+
+### **Working with Canisters**
 ```bash
-cd apps/web
-pnpm install
-pnpm dev
+# Common DFX commands
+dfx start --background           # Start local replica
+dfx deploy                       # Deploy all canisters
+dfx deploy canister_name         # Deploy specific canister
+dfx generate                     # Generate frontend bindings
+dfx canister call canister_name method '(args)'  # Call canister method
+
+# Testing
+dfx canister call dao get_proposals '()'
+dfx canister call assets register '(record {serial="SOL-123"; location="URGAM"})'
 ```
 
-### **Mobile**
+### **Frontend Development**
+```bash
+cd apps/web
+pnpm install                     # Install dependencies
+pnpm dev                         # Start dev server (port 3002)
+pnpm build                       # Production build
+pnpm test                        # Run tests
+```
 
+### **Mobile Development**
 ```bash
 cd apps/mobile
-flutter pub get
-flutter run
+flutter pub get                  # Get dependencies
+flutter run -d chrome            # Web preview
+flutter run                      # Connected device
+flutter build apk --release      # Production APK
 ```
-
-### **Backend (ICP)**
-
-```bash
-dfx start --background
-dfx deploy
-dfx generate
-```
-
----
-
-## 🌐 **Deployment (Vercel)**
-
-### **Vercel Setup**
-
-* Framework: **Next.js**
-* Root dir: `apps/web`
-* Build: `cd apps/web && pnpm build`
-* Output: `.next`
-
-Copy env vars from: `.env.vercel.example`
-
-### **Manual**
-
-```bash
-npm i -g vercel
-cd apps/web
-vercel --prod
-```
-
----
-
-## 🔧 **Key Features**
-
-### **RWA Monitoring & Analytics**
-
-* Solar generation
-* Data center health
-* Mining stats & rewards
-* Yield dashboards
-* Geographic analytics
-
-### **DAO Governance**
-
-* Proposal creation
-* Voting & execution
-* Weighted/flat governance via NFTs
-* Treasury transparency
-
-### **Identity & Security**
-
-* Multi-modal login
-* KYC options
-* On-chain data integrity
-
-### **Mobile + Web Access**
-
-* Full RWA dashboards on mobile
-* Real-time notifications
-* Energy & compute alerts
-
----
-
-## 🏢 **Project Phases**
-
-### **Phase 1: Baghpat Pilot**
-
-* Solar generation
-* Mining cluster
-* Operational telemetry
-
-### **Phase 2: Urgam Valley Smart Region**
-
-* SEZ micro data center
-* Large-scale renewable deployment
-* DAO-governed civic infrastructure
-
-### **Phase 3: Mumbai HPC Hub**
-
-* Tier 3 micro data center
-* 500 kW solar park
-* National scaling
-
----
-
-## 🗂️ **Module Architecture**
-
-| Feature            | Path                                 | Status     |
-| ------------------ | ------------------------------------ | ---------- |
-| NFT System         | `apps/web/src/components/nft/*`      | Stable     |
-| Village Dashboard  | `apps/web/src/app/urgamu-delhi/*`    | Active     |
-| Legacy Modules     | `apps/web/src/app/villages/`         | Deprecated |
-| Urgam U Smart City | `apps/web/src/modules/UrgamUDelhi/*` | Core       |
-| Shared Components  | `apps/web/src/*`                     | Core UI    |
-
----
-
-## 🛠️ **Troubleshooting**
-
-* Ensure **DFX** is running
-* After editing IC canisters: `dfx generate`
-* Check `docs/CRITICAL_FIXES_TODO.md`
-* Verify canister IDs in frontend env config
-* Mobile issues: run with `flutter clean`
 
 ---
 
 ## 🤝 **Contributing**
 
-All contributions are welcome!
-Please read the **Contributing Guide** in:
+We welcome contributions! Please see our detailed guidelines:
+- **Code Contributions:** `docs/CONTRIBUTING.md`
+- **Security Reporting:** `docs/SECURITY.md`
+- **Governance Participation:** Join our [Discord](https://discord.gg/oneworldproject)
 
-```
-docs/CONTRIBUTING.md
-```
-
----
-
-## 📄 **License**
-
-Open-source under **Apache 2.0**.
-See: `LICENSE`
+**Quick Start for Contributors:**
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-idea`)
+3. Commit changes (`git commit -m 'Add amazing idea'`)
+4. Push to branch (`git push origin feature/amazing-idea`)
+5. Open a Pull Request
 
 ---
 
-## 📚 **Documentation**
+## 🛠️ **Troubleshooting Guide**
 
-* Full Docs → `docs/`
-* Vision → `docs/COPILOT_CONTEXT.md`
-* API Design → `API_DESIGN.md`
-* Dev Status → `DEVELOPMENT_STATUS.md`
-* Security Checklist → `docs/SECURITY_CHECKLIST.md`
-* Critical Fixes → `docs/CRITICAL_FIXES_TODO.md`
-* Repo Cleanup → `docs/REPO_CLEANUP_SUMMARY.md`
-* Changelog → `CHANGELOG.md`
+| Issue | Solution | Documentation |
+|-------|----------|---------------|
+| **DFX not running** | `dfx start --background --clean` | [DFX Docs](https://internetcomputer.org/docs/current/developer-docs/setup/install) |
+| **Canister ID mismatch** | Update `.env` files in `/apps/web/` | `docs/ENV_CONFIGURATION.md` |
+| **Frontend build errors** | Clear Next.js cache: `rm -rf .next/` | `docs/FRONTEND_ISSUES.md` |
+| **Mobile build issues** | Flutter clean: `flutter clean && flutter pub get` | `docs/MOBILE_BUILD.md` |
+| **NFT metadata not updating** | Verify canister calls and OpenSea refresh | `docs/NFT_METADATA.md` |
+
+**Critical Fixes Pending:** See `docs/CRITICAL_FIXES_TODO.md` for ongoing issues and solutions.
+
+---
+
+## 📚 **Documentation Hub**
+
+- **Architecture Deep Dive:** `docs/ARCHITECTURE.md`
+- **API Reference:** `docs/API.md`
+- **Security Model:** `docs/SECURITY_CHECKLIST.md`
+- **Deployment Guide:** `docs/DEPLOYMENT.md`
+- **Asset Tokenization Process:** `docs/TOKENIZATION_GUIDE.md`
+- **DAO Governance Rules:** `docs/GOVERNANCE_RULES.md`
+- **Repository Cleanup Summary:** `docs/REPO_CLEANUP_SUMMARY.md`
+
+---
+
+## 📄 **License & Compliance**
+
+**License:** Apache 2.0 - See `LICENSE` for full details.
+
+**Compliance Notes:**
+- RWA tokenization complies with applicable Indian regulations
+- KYC/AML procedures implemented for DAO membership
+- All energy infrastructure meets local and national standards
+- Regular third-party audits of both smart contracts and physical assets
+
+---
+
+## 🌟 **Join the Solar Revolution**
+
+HeliosHash DAO represents a new paradigm in infrastructure ownership — decentralized, transparent, and community-powered.
+
+**Ready to contribute?**
+- **Investors:** Acquire RWA-backed NFTs on [OpenSea](https://opensea.io/collection/helioshash-rwa)
+- **Developers:** Fork our repo and build with us
+- **Communities:** Propose your village for our next deployment
+- **Partners:** Contact us at partnerships@oneworldproject.io
 
 ---
 
 <div align="center">
-  Made with ❤️ by the OneWorldProject Community  
+
+**Made with ☀️ by the OneWorldProject Community**  
+**Real Assets · Real Data · Real Impact**
+
+[Website](https://oneworldproject.io) | [Dapp](https://dapp.oneworldproject.io) | [Twitter](https://twitter.com/OneWorldPrj) | [Discord](https://discord.gg/oneworldproject)
+
 </div>
-```
-
-## 🚀 **Quick Update Command**
-
-```bash
-# Update README with fixed logo and centered title
-cat > README.md << 'EOF'
-[PASTE THE FIXED README CONTENT ABOVE]
-EOF
-
-# Commit the changes
-git add README.md
-git commit -m "docs: Fix README - centered title and properly sized logo"
-git push origin main
-```
-
-View your app in AI Studio: https://ai.studio/apps/drive/1QgJ4DrY1l4BWWaz-qJj17e8u7x6ffEdi
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
-View your app in AI Studio: https://ai.studio/apps/drive/1QgJ4DrY1l4BWWaz-qJj17e8u7x6ffEdi
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
