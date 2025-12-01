@@ -311,10 +311,6 @@ Each NFT represents:
 |----------|-----|
 | **Live Dapp** | [https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity](https://dapp.oneworldproject.io/daodetail/UrgamUSmartCity) |
 | **NFT Collection** | [OpenSea - HeliosHash RWA](https://opensea.io/collection/helioshash-rwa) |
-| **GitHub** | [HHDAOGAIST Repository](https://github.com/nutraz/HHDAOGAIST) |
-| **Documentation** | `docs/` directory in repository |
-| **Contributing** | `docs/CONTRIBUTING.md` |
-| **Security** | `docs/SECURITY_CHECKLIST.md` |
 | **Website** | [OneWorldProject.io](https://www.oneworldproject.io) |
 
 ---
