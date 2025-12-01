@@ -1,5 +1,3 @@
-
-
  # **HeliosHash DAO**
 
 ![HeliosHash DAO](https://raw.githubusercontent.com/nutraz/HeliosHash-DAO/main/assets/icons/hhdaologo.svg)
